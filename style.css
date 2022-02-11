@@ -9,7 +9,7 @@
 }
 
 @keyframes example
-{
+{ 
     from{box-shadow: 5px 5px 5px grey;}
     to{box-shadow: 5px 5px 100px black;}
 }
